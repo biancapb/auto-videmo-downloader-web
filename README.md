@@ -1,1 +1,1 @@
-# auto-videmo-downloader-web
+# auto-vimeo-downloader-web
